@@ -1,4 +1,11 @@
-<h1 align="center"><b>Hi, I'm Vedant Garje 👋</b></h1>
+<p align="center">
+  <a href="https://github.com/vednav9">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 <p align="center">
   I'm currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College 🎓. 
