@@ -19,17 +19,30 @@ Bharati Vidyapeeth College of Engineering, India
 
 ---
 
-### ✅ Technologies I’ve Learned & Worked With
+## ⚡ Tech Stack  
 
-<p>
-  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-  <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-  <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-  <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-  <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-  <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<p align="center">
+  
+  **Languages**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+  
+  **Backend**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,nginx" />
+  
+  **Frontend**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  
+  **Databases & Cloud**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite,aws,gcp,azure" />
+  
+  **Tools & Others**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+  
 </p>
 
 ---
