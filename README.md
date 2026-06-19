@@ -81,9 +81,9 @@ Bharati Vidyapeeth College of Engineering, India
   <img src="https://img.shields.io/badge/@vedant_garje_4-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
 </a>
 
-[![GitHub: Vedant](https://img.shields.io/github/followers/Krishna4375?label=Follow&style=social)](https://github.com/Krishna4375)
+[![GitHub: Vedant](https://img.shields.io/github/followers/vedant4375?label=Follow&style=social)](https://github.com/vedant4375)
 
 ---
 
-⭐️ From [Vedant](https://github.com/Krishna4375)
+⭐️ From [Vedant](https://github.com/vedant4375)
 </div>
