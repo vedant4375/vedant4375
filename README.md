@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Let’s build something awesome!  ⚙️✨🚀
+  Let’s build something awesome! ⚙️✨🚀
 </p>
 
 ---
