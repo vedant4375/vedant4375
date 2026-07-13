@@ -66,8 +66,7 @@ Bharati Vidyapeeth College of Engineering, India
 ### 🚀 Looking Forward to Learn
 
 <p>
-  <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-  <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins" />
 </p>
 
 ---
