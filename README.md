@@ -57,7 +57,7 @@ Bharati Vidyapeeth College of Engineering, India
 ### 🌱 Currently Exploring & Improving
 
 <p>
-  <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+ <img src="https://skillicons.dev/icons?i=docker" />
   <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 </p>
 
