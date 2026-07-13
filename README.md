@@ -32,11 +32,11 @@ Bharati Vidyapeeth College of Engineering, India
   
   **Languages**  
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
   
   **Backend**  
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
   
   **Frontend**  
   <br/>
