@@ -9,7 +9,7 @@
 
 <p align="center">
   I'm currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College 🎓. 
-  I enjoy learning new things and exploring the world of technology 💡. 
+  I enjoy learning new things and exploring the world of technology💡. 
   I'm passionate about both frontend 🎨 and backend 🔧 development, and I love building useful, real-world applications 💻
 </p>
 
