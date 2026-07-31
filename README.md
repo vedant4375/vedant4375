@@ -22,7 +22,7 @@
 ### 🎓 Education
 
 **Bachelor of Engineering in Information Technology**  
-Bharati Vidyapeeth College of Engineering, India  
+Bharati Vidyapeeth College of Engineering, India .  
 
 ---
 
